@@ -22,8 +22,8 @@ Développeur iOS spécialisé dans la création d’applications mobiles orient�
 - **Monétisation & Notifications** : RevenueCat, OneSignal
 
 #### 📸 Screenshots
-
- 
+![Yakabi](assets/yakabi-1.png)
+![Yakabi](assets/yakabi-2.png)
 
 ---
 
