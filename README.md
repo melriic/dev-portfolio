@@ -1,4 +1,4 @@
-# 👋 Mel Lacoste
+# 👋 Melric Lacoste
 ### iOS Full-Stack Developer
 
 Développeur iOS spécialisé dans la création d’applications mobiles orientées produit, avec une forte attention portée à l’UX, aux **performances** et aux **architectures scalables**.
