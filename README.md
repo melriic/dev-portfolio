@@ -9,9 +9,10 @@ Développeur iOS spécialisé dans la création d’applications mobiles orient�
 
 ### 🎨 Yakabi – Daily Photo Roulette
 **Yakabi** est un jeu social qui permet de mieux connaître ses amis.  
-⏰ Chaque jour à 20h, une nouvelle partie commence !
-🎲 Chaque joueur participe avec une photo sélectionnée aléatoirement depuis sa pellicule.  
-🔐 Tout le monde doit jouer le jeu pour voir ce que ses amis ont joué. 
+⏰ Chaque jour à 20h, une nouvelle partie commence !<br>
+🎲 Chaque joueur participe avec une photo sélectionnée aléatoirement depuis sa pellicule.<br>
+🔐 Tout le monde doit jouer le jeu pour voir ce que ses amis ont joué.
+
 
 🔗 **App Store** : https://apps.apple.com/fr/app/yakabi-daily-photo-roulette/id6744852802
 
