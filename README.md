@@ -1,13 +1,11 @@
 # 👋 Melric Lacoste
-### **iOS Engineer** | SwiftUI, Distributed Systems & Performance Optimization
+### **iOS Engineer** 
 
-Building scalable, offline-first mobile applications with focus on architecture, performance, and great UX.
+Building scalable, offline-first mobile applications with focus on architecture and performance.
 
 [![App Store](https://img.shields.io/badge/App%20Store-Yakabi-blue?logo=apple)](https://apps.apple.com/fr/app/yakabi-daily-photo-roulette/id6744852802)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/melric-lacoste)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mel.lacoste.pro@gmail.com)
-
-Développeur iOS spécialisé dans la création d’applications mobiles orientées produit, avec une forte attention portée à l’UX, aux **performances** et aux **architectures scalables**.
 
 ---
 
@@ -21,12 +19,12 @@ Développeur iOS spécialisé dans la création d’applications mobiles orient�
 🔐 Tout le monde doit jouer le jeu pour voir ce que ses amis ont joué.
 
 **🏗️ Technical Highlights:**
-- **85-90% cache hit rate** via multi-tier caching (Memory + Redis + Core Data)
-- **70% reduction** in server requests through intelligent caching strategy
-- **25-30% API latency improvement** with optimized GraphQL data layer
-- **Distributed architecture** with intelligent sharding for low-latency responses
-- **ETag-based synchronization** for data consistency at scale
-- **Full CI/CD pipeline** with GitHub Actions & Fastlane
+- **85-90% cache hit rate** grâce à une architecture de cache multi-niveaux (Memory + Redis + Core Data)
+- **Réduction de 70%** des requêtes serveur grâce à une stratégie de cache intelligente
+- **Amélioration de la latence de l'API de 25 à 30%** grâce à une couche de données GraphQL optimisée
+- **Architecture distribuée** avec sharding intelligent pour des réponses à faible latence
+- **Synchronisation basée sur les ETags** pour une cohérence des données à grande échelle
+- **CI/CD** avec GitHub Actions & Fastlane
 
 **🛠 Stack:**
 ```
@@ -54,14 +52,25 @@ DevOps:   GitHub Actions, Fastlane
 **📱 Product:** App qui facilite la communication entre salariés et CSE.
 
 **🏗️ Technical Highlights:**
-- Implemented multi-tier image caching & intelligent pagination (-45% bandwidth)
-- Optimized memory usage by 30% on constrained devices
-
+- Mise en place d'un système de cache d'images multiniveau et d'une pagination intelligente (réduction de 45 % de la bande passante)
+- Optimisation de 30 % de l'utilisation de la mémoire sur les appareils aux ressources limitées
+  
 **🛠 Stack:**
 ```
 iOS:      SwiftUI, UIKit, Combine, MVVM
 Backend:  Node.js, Firebase
 ```
+
+#### 📸 Screenshots
+<table>
+<tr>
+<td><img src="assets/yakabi-1.png" width="300"></td>
+<td><img src="assets/yakabi-2.png" width="300"></td>
+<td><img src="assets/yakabi-3.png" width="300"></td>
+<td><img src="assets/yakabi-4.png" width="300"></td>
+<td><img src="assets/yakabi-5.png" width="300"></td>
+</tr>
+</table>
 
 ---
 
@@ -73,9 +82,3 @@ Backend:  Node.js, Firebase
 **Performance:** Instruments, XCTest, XCUITest  
 **DevOps:** Git, CI/CD (GitHub Actions, Fastlane)
 
----
-
-## 📬 Contact
-- GitHub : https://github.com/melriic
-- LinkedIn : https://linkedin.com/in/tonprofil
-- Email : mel.lacoste.pro@gmail.com
