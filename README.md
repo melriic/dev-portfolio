@@ -13,7 +13,7 @@ Building scalable, offline-first mobile applications with focus on architecture 
 
 ### [Yakabi – Daily Photo Roulette](https://apps.apple.com/fr/app/yakabi-daily-photo-roulette/id6744852802)
 
-**📱 Product:** Jeu social qui permet de mieux connaître ses amis. 
+**📱 Product:** Jeu social qui permet de mieux connaître ses amis.<br>
 ⏰ Chaque jour à 20h, une nouvelle partie commence !<br>
 🎲 Chaque joueur participe avec une photo sélectionnée aléatoirement depuis sa pellicule.<br>
 🔐 Tout le monde doit jouer le jeu pour voir ce que ses amis ont joué.
