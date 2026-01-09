@@ -44,23 +44,7 @@ DevOps:   GitHub Actions, Fastlane
 <td><img src="assets/yakabi-5.png" width="300"></td>
 </tr>
 </table>
-
----
-
-### [SYNapCSE]
-
-**📱 Product:** App qui facilite la communication entre salariés et CSE.
-
-**🏗️ Technical Highlights:**
-- Mise en place d'un système de cache d'images multiniveau et d'une pagination intelligente (réduction de 45 % de la bande passante)
-- Optimisation de 30 % de l'utilisation de la mémoire sur les appareils aux ressources limitées
-  
-**🛠 Stack:**
-```
-iOS:      SwiftUI, UIKit, Combine, MVVM
-Backend:  Node.js, Firebase
-```
-
+ 
 ---
 
 ## 🛠️ Technical Skills
