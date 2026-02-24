@@ -3,7 +3,7 @@
 
 Building scalable, offline-first mobile applications with focus on architecture and performance.
 
-[![App Store](https://img.shields.io/badge/App%20Store-Yakabi-blue?logo=apple)](https://apps.apple.com/fr/app/yakabi-daily-photo-roulette/id6744852802)
+[![App Store](https://img.shields.io/badge/App%20Store-Yakabi-blue?logo=apple)](https://apps.apple.com/fr/app/id6744852802)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/melric-lacoste)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mel.lacoste.pro@gmail.com)
 
@@ -11,12 +11,12 @@ Building scalable, offline-first mobile applications with focus on architecture 
 
 ## ⚙️ Experience
 
-### [Yakabi – Daily Photo Roulette](https://apps.apple.com/fr/app/yakabi-daily-photo-roulette/id6744852802)
+### [Yester – Le réseau social du passé](https://apps.apple.com/fr/app/id6744852802)
 
-**📱 Product:** Jeu social qui permet de mieux connaître ses amis.<br>
-⏰ Chaque jour à 20h, une nouvelle partie commence !<br>
-🎲 Chaque joueur participe avec une photo sélectionnée aléatoirement depuis sa pellicule.<br>
-🔐 Tout le monde doit jouer le jeu pour voir ce que ses amis ont joué.
+**📱 Product:** App qui permet de partager des memories entre amis<br>
+⏰ Chaque jour à 20h, une date au hasard tombe !<br>
+🎲 5 minute pour partager une photo depuis sa pellicule de cette journée.<br>
+👀 Découvre ce que tes amis faisaient ce jour-là.<br>
 
 **🏗️ Technical Highlights:**
 - **85-90% cache hit rate** grâce à une architecture de cache multi-niveaux (Memory + Redis + Core Data)
