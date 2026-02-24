@@ -3,7 +3,7 @@
 
 Building scalable, offline-first mobile applications with focus on architecture and performance.
 
-[![App Store](https://img.shields.io/badge/App%20Store-Yakabi-blue?logo=apple)](https://apps.apple.com/fr/app/id6744852802)
+[![App Store](https://img.shields.io/badge/App%20Store-Yester-blue?logo=apple)](https://apps.apple.com/fr/app/id6744852802)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/melric-lacoste)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mel.lacoste.pro@gmail.com)
 
