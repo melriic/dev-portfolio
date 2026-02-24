@@ -40,11 +40,11 @@ Cette architecture permet à l'application de rester rapide et fiable même en c
 #### 📸 Screenshots
 <table>
 <tr>
-<td><img src="assets/yakabi-1.png" width="300"></td>
-<td><img src="assets/yakabi-2.png" width="300"></td>
-<td><img src="assets/yakabi-3.png" width="300"></td>
-<td><img src="assets/yakabi-4.png" width="300"></td>
-<td><img src="assets/yakabi-5.png" width="300"></td>
+<td><img src="assets/yester1.png" width="300"></td>
+<td><img src="assets/yester2.png" width="300"></td>
+<td><img src="assets/yester3.png" width="300"></td>
+<td><img src="assets/yester4.png" width="300"></td>
+<td><img src="assets/yester5.png" width="300"></td>
 </tr>
 </table>
  
