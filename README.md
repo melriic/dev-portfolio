@@ -3,7 +3,6 @@
 Building production-grade iOS apps with a focus on architecture, caching, and performance.  
 Founder of **Yester** — a social memory app live on the App Store.
 
-[![App Store](https://img.shields.io/badge/App%20Store-Yester-black?logo=apple)](https://apps.apple.com/fr/app/id6744852802)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-melric--lacoste-0077B5?logo=linkedin)](https://linkedin.com/in/melric-lacoste)
 [![Email](https://img.shields.io/badge/Email-mel.lacoste.pro%40gmail.com-red?logo=gmail)](mailto:mel.lacoste.pro@gmail.com)
 
@@ -16,7 +15,7 @@ My focus: offline-first experiences, multi-layer caching, and GraphQL pipelines 
 
 ---
 
-## Featured — [Yester: On This Day](https://apps.apple.com/fr/app/id6744852802)
+## Featured — [Yester: On This Day](https://apps.apple.com/fr/app/yester-on-this-day/id6759684119)
 
 > *Every day at 8PM, a random past date drops. You have 5 minutes to share a photo from that day. Then discover what your friends were up to.*
 
