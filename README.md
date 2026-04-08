@@ -52,11 +52,11 @@ DevOps   GitHub Actions · Fastlane
 
 ## Other projects
 
-### Yakabi — Daily Photo Roulette *(indie, 2023–2024)*
+### Yakabi — Daily Photo Roulette *(indie, 2025)*
 Photo-sharing app with a contact-matching system built on hashing + indexing.  
 Near-instant matching across 10K+ contacts · reactive cache (Combine + ETag) cutting server requests by ~60%.
 
-### Diagoris — CSE Communication Platform *(CDD, 2024)*
+### Diagoris — CSE Communication Platform *(Remote, 2024)*
 Built the iOS app from scratch with no existing technical foundation.  
 Smart pagination + prefetching · memory optimizations (lazy loading, cache invalidation).
 
