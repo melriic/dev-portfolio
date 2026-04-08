@@ -1,60 +1,88 @@
-# 👋 Melric Lacoste
-### **iOS Engineer** 
+# Melric Lacoste — iOS Engineer · Full-Stack Mobile
 
-Building scalable, offline-first mobile applications with focus on architecture and performance.
+Building production-grade iOS apps with a focus on architecture, caching, and performance.  
+Founder of **Yester** — a social memory app live on the App Store.
 
-[![App Store](https://img.shields.io/badge/App%20Store-Yester-blue?logo=apple)](https://apps.apple.com/fr/app/id6744852802)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/melric-lacoste)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mel.lacoste.pro@gmail.com)
+[![App Store](https://img.shields.io/badge/App%20Store-Yester-black?logo=apple)](https://apps.apple.com/fr/app/id6744852802)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-melric--lacoste-0077B5?logo=linkedin)](https://linkedin.com/in/melric-lacoste)
+[![Email](https://img.shields.io/badge/Email-mel.lacoste.pro%40gmail.com-red?logo=gmail)](mailto:mel.lacoste.pro@gmail.com)
 
 ---
 
-## ⚙️ Experience
+## What I build
 
-### [Yester – Le réseau social du passé](https://apps.apple.com/fr/app/id6744852802)
+I design and ship iOS apps end-to-end — from SwiftUI architecture to backend infrastructure.  
+My focus: offline-first experiences, multi-layer caching, and GraphQL pipelines that scale.
 
-**📱 Product:** App qui permet de partager des memories entre amis<br>
-⏰ Chaque jour à 20h, une date au hasard tombe !<br>
-🎲 5 minute pour partager une photo depuis sa pellicule de cette journée.<br>
-👀 Découvre ce que tes amis faisaient ce jour-là.<br>
+---
 
-**🏗️ Technical Highlights:**
-- **85-90% cache hit rate** grâce à une architecture de cache multi-niveaux (Memory + Redis + Core Data)
-- **Réduction de 70%** des requêtes serveur grâce à une stratégie de cache intelligente
-- **Amélioration de la latence de l'API de 25 à 30%** grâce à une couche de données GraphQL optimisée
-- **Architecture distribuée** avec sharding intelligent pour des réponses à faible latence
-- **Synchronisation basée sur les ETags** pour une cohérence des données à grande échelle
-- **CI/CD** avec GitHub Actions & Fastlane
+## Featured — [Yester: On This Day](https://apps.apple.com/fr/app/id6744852802)
 
-**🛠 Stack:**
-```
-iOS:      SwiftUI, UIKit, Combine, MVVM, Core Data
-Backend:  Node.js, Apollo GraphQL, Redis, Firebase Cloud Functions
-Services: Algolia, RevenueCat, OneSignal, Replicate AI
-DevOps:   GitHub Actions, Fastlane
-```
+> *Every day at 8PM, a random past date drops. You have 5 minutes to share a photo from that day. Then discover what your friends were up to.*
 
-### 🎯 Why it matters
-Cette architecture permet à l'application de rester rapide et fiable même en cas de trafic important, tout en offrant une expérience hors ligne fluide et en réduisant les coûts d'infrastructure.
+A social memory app built entirely solo — product, iOS, and backend.
 
-#### 📸 Screenshots
+**Architecture highlights**
+- Multi-layer cache (Memory + Core Data + Redis + ETag) — **85–90% hit rate**, 60% fewer network transfers
+- Denormalized fan-out feed (Instagram pattern) — eliminates client-side N+1 queries, optimistic updates
+- Serverless GraphQL backend (Firebase Cloud Functions) — designed to absorb **100K uploads in 5 minutes**
+- ETag-based sync for data consistency at scale
+- CI/CD with GitHub Actions + Fastlane
+
+**Screenshots**
+
 <table>
 <tr>
-<td><img src="assets/yester1.png" width="300"></td>
-<td><img src="assets/yester2.png" width="300"></td>
-<td><img src="assets/yester3.png" width="300"></td>
-<td><img src="assets/yester4.png" width="300"></td>
-<td><img src="assets/yester5.png" width="300"></td>
+<td><img src="assets/yester1.png" width="180"></td>
+<td><img src="assets/yester2.png" width="180"></td>
+<td><img src="assets/yester3.png" width="180"></td>
+<td><img src="assets/yester4.png" width="180"></td>
+<td><img src="assets/yester5.png" width="180"></td>
 </tr>
 </table>
- 
+
+**Stack**
+```
+iOS      SwiftUI · UIKit · Combine · MVVM · Core Data · Swift Concurrency
+Backend  Node.js · Apollo GraphQL · Redis · Firebase Cloud Functions
+Services Algolia · RevenueCat · OneSignal
+DevOps   GitHub Actions · Fastlane
+```
+
 ---
 
-## 🛠️ Technical Skills
+## Other projects
 
-**iOS Development:** Swift, SwiftUI, UIKit, Combine, Swift Concurrency, Core Data  
-**Architecture:** MVVM, Clean Architecture, Offline-First, Multi-tier Caching  
-**Backend:** Node.js, Apollo GraphQL, Redis, Firebase Cloud Functions
-**Performance:** Instruments, XCTest, XCUITest  
-**DevOps:** Git, CI/CD (GitHub Actions, Fastlane)
+### Yakabi — Daily Photo Roulette *(indie, 2023–2024)*
+Photo-sharing app with a contact-matching system built on hashing + indexing.  
+Near-instant matching across 10K+ contacts · reactive cache (Combine + ETag) cutting server requests by ~60%.
 
+### Diagoris — CSE Communication Platform *(CDD, 2024)*
+Built the iOS app from scratch with no existing technical foundation.  
+Smart pagination + prefetching · memory optimizations (lazy loading, cache invalidation).
+
+> *Repos are private — happy to walk through architecture and decisions in a call.*
+
+---
+
+## Skills
+
+| | |
+|---|---|
+| **iOS** | Swift, SwiftUI, UIKit, Combine, Swift Concurrency |
+| **Architecture** | MVVM, Clean Architecture, Offline-First, Dependency Injection |
+| **Data & Cache** | Core Data, Apollo GraphQL, Redis, ETag, Offline-First |
+| **Backend** | Node.js, TypeScript, Firebase Cloud Functions, GraphQL serverless |
+| **Tooling** | Git, GitHub Actions, Fastlane, XCTest, XCUITest, Figma |
+
+---
+
+## Open to
+
+- Full-time (CDI) or freelance missions
+- Full remote or hybrid
+- Available now
+
+---
+
+*Based in France · English & French*
